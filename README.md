@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Harivansh and I work as a java springboot developer at my current company .
+- 👋, I’m Harivansh and I work as a java springboot developer at my current company .
 - 👀 I’m also interested in Javascript,react and web development.
-- 🌱 I’m currently learning react and redux.
+- 🌱 I’m currently learning front end development and write the blogs related to  it on https://harivansh.hashnode.dev/ .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? Feel free to ping me on harivanshkashyap04@gmail.com ...
 
